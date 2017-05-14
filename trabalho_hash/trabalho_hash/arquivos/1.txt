@@ -1,0 +1,2 @@
+Valor: baixo, alto, concentrado, muito baixo, muito alto, bem alto, bem baixo, caro, barato, muito barato, muito caro.
+Mil reais, dois mil reais, quatro mil reais, cinco mil reais, seis, mil reais.

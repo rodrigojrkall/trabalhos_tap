@@ -1,0 +1,52 @@
+567854 - rodrigo_junior_de_assis
+
+Dada a base de documentos formada pelos arquivos textos (formato ASCII, extensão TXT):
+	1.txt, 2.txt, 3.txt, 4.txt, 5.txt e 6.txt
+
+Aplicar apenas a transformação léxica de texto para eliminar a pontuação, transformar para maiúsculas ou minúsculas os caracteres e obter o vocabulário.
+
+OBSERVAÇÃO 1: O trabalho DEVE SER entregue na forma ELETRÔNICA, via SGA, na forma de um arquivo texto (extensão .TXT), SEM COMPACTAÇÃO, conforme o leiaute exigido no trabalho.
+
+OBSERVAÇÃO 2: Não serão considerados trabalhos fora das especificações exigidas.
+
+OBSERVAÇÃO 3: Muita atenção ao leiaute do arquivo .TXT (SEM COMPACTAÇÃO). A correção será automática.
+
+OBSERVAÇÃO 4: NÃO DEIXE PARA SUBMETER (ENVIAR) O ARQUIVO .TXT NA ÚLTIMA HORA. PLANEJE-SE PARA EVITAR EVENTUAIS PROBLEMAS.
+
+OBSERVAÇÃO 5: A COMPREENSÃO, PODER de DISCERNIMENTO e DECISÃO, ASSIDUIDADE (PONTUALIDADE) e obter o RESULTADO CORRETO (ELABORAÇÃO CORRETA) fazem parte da avaliação.
+
+----------------------------------------------------------------
+Tabela de Hash com endereçamento aberto
+----------------------------------------------------------------
+Obter o vocabulário, ou seja, o conjunto distinto de palavras que aparecem nos seis documentos (arquivos).
+
+Obter uma tabela de hash com ENDEREÇAMENTO ABERTO para o vocabulário em questão.
+
+O tamanho da tabela de hash é igual ao número de termos do vocabulário, ou seja, o fator de carga é igual a um.
+
+Os endereços na tabela de hash devem ser obtidos inserindo os termos do vocabulário na ordem lexicográfica do vocabulário.
+
+Obter aleatoriamente um conjunto de pesos que tem o tamanho da maior palavra do vocabulário.
+
+Deve ser entregue até as 23:59 horas do dia 14/05/2017, via SGA, um arquivo texto de extensão .TXT, NÃO COMPACTADO, seguindo o formato:
+
+A primeira linha do arquivo deve ter os valores do conjunto de pesos utilizados.
+Os valores gerados devem estar no intervalo [1,t], onde t é o tamanho da maior palavra do vocabulário 
+Os valores do conjunto de pesos devem estar separados por espaços.
+Nas linhas restantes do arquivo seguem os respectivos termos.
+
+Segue um exemplo de leiaute do arquivo de extensão TXT a ser enviado:
+
+	6 9 11 2 5 5 10 2
+	cobra
+	tatu
+	abelha
+	o
+	uma
+	. . .
+	. . .
+	constituinte
+	ovelha
+	zebra
+	galinha
+	gnu

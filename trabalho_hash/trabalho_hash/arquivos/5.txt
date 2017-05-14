@@ -1,0 +1,2 @@
+Banheiro: pia, box, toalha, tapete, azulejo, sabonete, chuveiro.
+Azulejo: pequeno, grande, quadrado, rejunte fino, rejunte grosso.

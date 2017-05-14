@@ -1,0 +1,57 @@
+12 16 17 15 19 16 3 17 17 5 21 3 2 20 6 22 16 5 8 6 7 14 1
+alto
+azulejo
+baixo
+banheiro
+barato
+bem alto
+bem baixo
+box
+cadeira
+caro
+chuveiro
+cinco mil reais
+concentrado
+cozinha
+dois mil reais
+estante
+faca
+garagem
+garfo
+geladeira
+grande
+janela grande
+janela pequena
+jardim
+lazer
+madeira corrida
+madeira densa
+madeira fina
+madeira grossa
+madeira inteira
+madeira leve
+madeira lisa
+madeira pesada
+madeira rugosa
+madeira super densa
+mesa
+mil reais
+muito alto
+muito baixo
+muito barato
+muito caro
+pequeno
+pia
+porta
+quadrado
+quarto
+quatro mil reais
+rejunte fino
+rejunte grosso
+sabonete
+sala
+seis
+tapete
+tapete persa grande pia
+tapete persa pequeno
+toalha

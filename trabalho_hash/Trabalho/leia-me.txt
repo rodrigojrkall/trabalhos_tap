@@ -1,0 +1,16 @@
+Prezado(a) Aluno(a),
+
+Executar o programa GERAR-BASE.EXE entrando com o seu número de matrícula.
+
+Será gerado um arquivo texto (.TXT). O nome do arquivo texto envolve o seu número de sua matrícula e o seu nome completo (MMMMMM_NNNN_NNNNN_NNNNN.TXT).
+
+Este arquivo texto possui as instruções sobre o trabalho a ser realizado e as respectivas datas limite de envio (submissão).
+
+Uma base de documentos {1.txt, 2.txt, 3.txt, 4.txt, 5.txt e 6.txt} também é gerada após a execução do programa GERAR-BASE.EXE.
+
+A correção dos trabalhos enviados (submetidos) via SGA será feita automaticamente, ou seja, será usado um programa para fazer a correção, PORTANTO, MUITA ATENÇÃO NA ELABORAÇÃO, NO LEIAUTE DO ARQUIVO A SER ENVIADO (MUITA ATENÇÃO).
+
+Faz parte da avaliação o PODER de DISCERNIMENTO, COMPREENSÃO e CONCLUSÃO, ASSIDUIDADE (pontualidade) e, evidentemente, a CORRETA ELABORAÇÃO da atividade avaliativa.
+
+Atenciosamente,
+Camillo Oliveira
