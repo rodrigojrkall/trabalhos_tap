@@ -1,57 +1,57 @@
-12 16 17 15 19 16 3 17 17 5 21 3 2 20 6 22 16 5 8 6 7 14 1
-alto
-azulejo
+19 22 6 12 13 5 7 22 15 6 3 2 10 10 3 22 14 1 15 10 22 8 18
+pequeno
+quarto
+tapete persa pequeno
+tapete
+toalha
 baixo
 banheiro
-barato
-bem alto
-bem baixo
-box
-cadeira
-caro
-chuveiro
-cinco mil reais
-concentrado
-cozinha
 dois mil reais
-estante
 faca
-garagem
-garfo
 geladeira
-grande
+estante
+barato
 janela grande
 janela pequena
-jardim
-lazer
 madeira corrida
-madeira densa
-madeira fina
-madeira grossa
-madeira inteira
-madeira leve
-madeira lisa
-madeira pesada
 madeira rugosa
 madeira super densa
-mesa
+azulejo
+madeira pesada
 mil reais
 muito alto
-muito baixo
+madeira leve
+concentrado
+madeira grossa
 muito barato
-muito caro
-pequeno
-pia
 porta
 quadrado
-quarto
 quatro mil reais
+madeira lisa
 rejunte fino
 rejunte grosso
+alto
 sabonete
+muito caro
+garagem
+madeira densa
+cinco mil reais
+madeira fina
+pia
+caro
+box
+bem alto
+cadeira
+cozinha
+madeira inteira
+mesa
+jardim
 sala
 seis
-tapete
+bem baixo
+garfo
 tapete persa grande pia
-tapete persa pequeno
-toalha
+grande
+chuveiro
+lazer
+muito baixo
